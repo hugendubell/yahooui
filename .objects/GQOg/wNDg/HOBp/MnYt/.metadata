@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Stocks",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MnYtUeBtfkGFAQuMj8CRFg",
+  "Reference": "uzS0VvgwBki7KZCLz1QSxQ/MnYtUeBtfkGFAQuMj8CRFg",
+  "ParentRef": "uzS0VvgwBki7KZCLz1QSxQ/HOBpEAg3pEW1VdLOjZqdwA",
+  "Created": "2025-03-14T11:34:54.4259763Z",
+  "Updated": "2025-03-14T11:34:54.4259763Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

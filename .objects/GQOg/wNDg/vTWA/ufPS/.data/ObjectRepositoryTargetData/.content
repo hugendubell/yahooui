@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wMVq6OinaEeKZ3L65d7CLg" Reference="uzS0VvgwBki7KZCLz1QSxQ/ufPSiSn9CEqxANKxoRvS1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/research-hub/screener" CVScreenId="fc7cca58-dec3-4187-a97d-c61f75b90795" CvElementArea="461, 399, 87, 34" CvTextArea="472, 409, 64, 13" CvTextArgument="Research" CvType="Button" DesignTimeRectangle="473, 408, 63, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Research' parentid='ybar-navigation' tag='SPAN' type='' class='_yb_2tcbii' check:innerText='Research' /&gt;" Guid="0d7506c9-f991-4e00-a7f0-04f7117679b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yahoo Finance Screeners' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0d32027d-d597-46cd-9086-2eec527b80a3" CvElementArea="461, 399, 87, 34" CvTextArea="472, 409, 64, 13" CvTextArgument="Research" CvType="Button" DesignTimeRectangle="463, 401, 83, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='      Research                ' parentid='ybar-navigation' tag='A' type='' class='_yb_1m3fv6i  _yb_1km0xpw  rapid-noclick-resp' check:innerText='Research' /&gt;" Guid="192dbc3d-c091-4c16-a92b-778021feac66" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42eb547c8cf59ae5e11565e2c9402326.png" xmlns="">0AADSLsp04UelXOTlxsKdlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

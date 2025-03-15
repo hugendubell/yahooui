@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zKPOZ_OPbUyQ108Q5a-gsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/JPY%3DX" CVScreenId="6c7c5933-761f-4480-85e5-6f6d1fcd2509" CvTextArea="208, 509, 678, 16" CvType="AnyWordGroup" DesignTimeRectangle="194, 496, 725, 40" DesignTimeScaleFactor="1" ElementType="List" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' tag='UL' type='' class='_yb_jy1xrb _yb_1d8j0fp' aaname='                                                              ' /&gt;" Guid="d5177314-94ae-4ac1-9c1c-1ac3a522e101" ScopeSelectorArgument="&lt;html app='chrome.exe' title='USD/JPY (JPY=X) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f7900af2476fee9189b1670caffe4ae3.png" xmlns="">0Lmdru4bwI06WhrUwbm5KTg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

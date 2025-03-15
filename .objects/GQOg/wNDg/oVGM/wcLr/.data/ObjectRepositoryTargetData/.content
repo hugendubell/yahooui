@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gEJOBmFiV0KcGQ5gnFLg0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="consent.yahoo.com/v2/collectConsent" CVScreenId="a1680a5c-d264-4eab-b5e4-d7172a7290ff" CvElementArea="1139, 834, 166, 38" CvTextArea="1189, 846, 63, 16" CvTextArgument="הכול לקבל" CvType="Button" DesignTimeRectangle="1141, 836, 160, 35" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn secondary accept-all ' aaname='לקבל הכול' check:innerText='לקבל הכול' /&gt;" Guid="3998559b-feb6-492a-b38e-cb0d6ec5bbf4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yahoo הוא חלק ממשפחת המותגים של Yahoo.' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a1680a5c-d264-4eab-b5e4-d7172a7290ff" CvElementArea="958, 834, 166, 39" CvTextArea="1006, 846, 69, 13" CvTextArgument="הכול לדחות" CvType="Button" DesignTimeRectangle="961, 836, 160, 35" ElementType="Button" FuzzySelectorArgument="&lt;webctrl name='reject' tag='BUTTON' type='submit' class='btn secondary reject-all' aaname='לדחות הכול' check:innerText='לדחות הכול' /&gt;" Guid="81a028c6-e5cd-4993-8bda-7719029e2dd4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="159d6e208de5290362bf4ab93ebe5d56.png" xmlns="">0GR8e83Gr_UixknT5Rs9bOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

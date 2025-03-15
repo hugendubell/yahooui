@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8UKefSwoXUufN5ScwM-1GA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/markets" CVScreenId="407a894f-d473-4b13-89cb-ff244c977fab" CvTextArea="1539, 724, 26, 12" CvTextArgument="Asia" CvType="Text" DesignTimeRectangle="1529, 718, 48, 24" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='tab-ASIA' tag='BUTTON' type='' class='tabBtn tw-pt-0 l2 yf-gfq5ju' aaname='Asia' check:innerText='Asia' /&gt;" Guid="a5bbf572-c54b-4a3f-987e-d56afe49f871" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Markets: World Indexes, Futures, Bonds, Currencies, Stocks &amp;amp; ETFs - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="407a894f-d473-4b13-89cb-ff244c977fab" CvElementArea="1464, 717, 66, 27" CvTextArea="1477, 724, 40, 14" CvTextArgument="Europe" CvType="Button" DesignTimeRectangle="1465, 718, 64, 24" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='tab-EUROPE' tag='BUTTON' type='' class='tabBtn tw-pt-0 l2 yf-gfq5ju' aaname='Europe' check:innerText='Europe' /&gt;" Guid="23f5be62-0e4e-48cd-b5d8-7c1557c112fa" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6aeb77fcb42024a5663f3789d6f0dd2f.png" xmlns="">0oLCzsjnwskG4ntd7oQufVA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

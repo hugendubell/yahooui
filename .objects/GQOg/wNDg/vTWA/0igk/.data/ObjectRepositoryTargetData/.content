@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KZ69mrMfY0uNvo3ERParng" Reference="uzS0VvgwBki7KZCLz1QSxQ/0igkzeyRc0-LEt7bvFNolA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/DX-Y.NYB" CVScreenId="c3f32111-9683-4ca6-b9fb-dc1711883439" CvElementArea="1424, 716, 43, 27" CvTextArea="1436, 724, 283, 12" CvTextArgument="US Europe Asia Rates Commodities" CvType="Button" DesignTimeRectangle="1413, 718, 320, 33" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' parentid='nimbus-app' tag='DIV' class='selectWrapper tabs yf-3hq3ym' aaname='  ' check:innerText='US&amp;#xA;Europe&amp;#xA;Asia&amp;#xA;Rates&amp;#xA;Commodities&amp;#xA;Currencies&amp;#xA;Cryptocurrencies' /&gt;" Guid="7a5b6b29-148a-4901-a849-6731c8a46262" ScopeSelectorArgument="&lt;html app='chrome.exe' title='US Dollar Index (DX-Y.NYB) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="76c5e7541154b507ad0c90b035216ed2.png" xmlns="">0JA57Ie1fxEycy66gyRlFVA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kk2GIHHb9UKx3opzJANcjQ" Reference="uzS0VvgwBki7KZCLz1QSxQ/incoh-psCkqTcAf13RfDCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/%5EDJI" CVScreenId="8c9d3065-98d2-46d4-8889-1d5e81f906b7" CvTextArea="947, 804, 74, 12" CvTextArgument="169,581,918" CvType="Text" DesignTimeRectangle="948, 802, 73, 15" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' class='yf-1jj98ts' isleaf='1' parentid='nimbus-app' tag='FIN-STREAMER' aaname='169,581,918' check:innerText='169,581,918' /&gt;" Guid="043c974e-0284-4ab3-ae73-c1d493f520b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dow Jones Industrial Average (^DJI) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8c9d3065-98d2-46d4-8889-1d5e81f906b7" CvTextArea="705, 803, 42, 12" CvTextArgument="Volume" CvType="Text" DesignTimeRectangle="707, 801, 40, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Volume' parentid='nimbus-app' tag='SPAN' type='' class='label yf-1jj98ts' check:innerText='Volume' /&gt;" Guid="04809711-4e6c-4bc2-b7b4-58be32c1af44" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f364a62d66a678467394bf58d8a8b2ea.png" xmlns="">0JMvjw2C8Y0m7YdD2fR8oSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

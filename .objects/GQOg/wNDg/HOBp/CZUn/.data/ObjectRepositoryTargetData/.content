@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BCtD-514CkO6d1zp31Whlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/markets/stocks/most-active" CVScreenId="c7a58568-e180-4c56-a370-44b6e619e593" CvTextArea="585, 683, 79, 16" CvTextArgument="Top Gainers" CvType="Text" DesignTimeRectangle="586, 680, 78, 21" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Top Gainers' parentid='nimbus-app' tag='SPAN' type='' class='ellipsis yf-emp91w' check:innerText='Top Gainers' /&gt;" Guid="7ad6f64c-a71a-4c5a-b7b9-10378f86d4a4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Most Active Stocks: US stocks with the highest trading volume today - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c7a58568-e180-4c56-a370-44b6e619e593" CvTextArea="686, 683, 71, 16" CvTextArgument="Top Losers" CvType="Text" DesignTimeRectangle="688, 680, 69, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Top Losers' parentid='nimbus-app' tag='SPAN' type='' class='ellipsis yf-emp91w' check:innerText='Top Losers' /&gt;" Guid="8754a1ab-9785-41f5-875b-955ff8337c7d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="41244741e49e7031b4a29a1f45f48b24.png" xmlns="">04RiNOL96G0m0DmOw193Lig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="07EKPoXVLkOEEMssGgmJig" Reference="uzS0VvgwBki7KZCLz1QSxQ/9clf0Ma450Go9TRKKdTNBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://finance.yahoo.com/quote/GC%3DF/" ContentHash="b8Xr6j6oSEeE5KmXdm4q7g" DesignTimeRectangle="1413, 751, 320, 219" DesignTimeScaleFactor="1" ElementType="List" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;main&amp;gt;aside&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;ul' parentid='nimbus-app' tag='UL' /&gt;" Guid="4fc73a6c-1d53-4312-ae5c-8c84151a9bf4" Reference="uzS0VvgwBki7KZCLz1QSxQ/9clf0Ma450Go9TRKKdTNBA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Gold Apr 25 (GC=F) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bb08dc08ecb2ecca665067f0c7017216.png" xmlns="">0cuUs5pXaCEKXdpVbJffjPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Symbol'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

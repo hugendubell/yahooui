@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j__oDd5pak-Ugiwh1wUZgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/research-hub/screener" CVScreenId="9536138e-2734-410e-a632-d1343ae91cef" CvElementArea="461, 499, 86, 33" CvTextArea="472, 509, 64, 13" CvTextArgument="Research" CvType="Button" DesignTimeRectangle="463, 501, 83, 30" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='      Research                ' parentid='ybar-navigation' tag='A' type='' class='_yb_1m3fv6i  _yb_1km0xpw  rapid-noclick-resp' check:innerText='Research' /&gt;" Guid="ae8b4fc5-3385-4bf1-8ff1-7e877dd7efa8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yahoo Finance Screeners' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3feda79b37ab2e2dc9a32af9fd3d0ba4.png" xmlns="">0R6w2mC9zx0O-QWEMsrhHNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

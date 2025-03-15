@@ -1,0 +1,14 @@
+﻿{
+  "Name": "UL",
+  "Type": "Element",
+  "TaxonomyType": "Listbox",
+  "Id": "vTmyfQ68j0KCerITKms15g",
+  "Reference": "uzS0VvgwBki7KZCLz1QSxQ/vTmyfQ68j0KCerITKms15g",
+  "ParentRef": "uzS0VvgwBki7KZCLz1QSxQ/0bee9ZTV_E63-rMYSn4oNA",
+  "Created": "2025-03-14T11:23:11.1005713Z",
+  "Updated": "2025-03-14T11:23:11.1005713Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

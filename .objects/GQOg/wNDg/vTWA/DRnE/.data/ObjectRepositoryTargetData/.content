@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zv2Ha-YLlUmAXNRLBNoS-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/markets" CVScreenId="5b8aba41-0594-468f-b4b2-fe88900baa8a" CvElementArea="377, 398, 79, 34" CvTextArea="388, 409, 57, 13" CvTextArgument="Markets" CvType="Button" DesignTimeRectangle="379, 401, 75, 30" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='      Markets                ' parentid='ybar-navigation' tag='A' type='' class='_yb_1m3fv6i  _yb_1km0xpw  rapid-noclick-resp' check:innerText='Markets' /&gt;" Guid="fe961180-3dab-426f-be07-3937e67f8e0c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Markets: World Indexes, Futures, Bonds, Currencies, Stocks &amp;amp; ETFs - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5b8aba41-0594-468f-b4b2-fe88900baa8a" CvElementArea="377, 398, 79, 34" CvTextArea="388, 409, 57, 13" CvTextArgument="Markets" CvType="Button" DesignTimeRectangle="389, 408, 55, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Markets' parentid='ybar-navigation' tag='SPAN' type='' class='_yb_2tcbii' check:innerText='Markets' /&gt;" Guid="64235517-7bfe-4b92-9c42-737f07c987f3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="57b3b80a9b232bde8a5c322baf2acf6f.png" xmlns="">0FS7IPRSIJUW5f1MzO66HrQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

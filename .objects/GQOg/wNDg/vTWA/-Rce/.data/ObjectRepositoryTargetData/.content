@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xlIcwlGFtEWCfAfjMyFLaw" Reference="uzS0VvgwBki7KZCLz1QSxQ/-RceB5lMrUi5qkw9KZNB5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://finance.yahoo.com/quote/EURUSD%3DX/" ContentHash="eNUVWF4HYEqZjgvbMKQmeA" DesignTimeRectangle="1412, 499, 320, 225" DesignTimeScaleFactor="1" ElementType="List" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;main&amp;gt;aside&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;ul' parentid='nimbus-app' tag='UL' /&gt;" Guid="a971d9f9-f20d-4b4e-a109-38bcc3f02036" Reference="uzS0VvgwBki7KZCLz1QSxQ/-RceB5lMrUi5qkw9KZNB5g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='EUR/USD (EURUSD=X) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="626c2ecbb4d57405b711066888dbfca1.png" xmlns="">0jMZcg9BE90uCbIl7eUhZ3w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='New column 0'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

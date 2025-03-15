@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rEcVcYKpb0C12BQaKtBsMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/markets/stocks/most-active" CVScreenId="8fc82e9a-1f86-428c-ad06-7ccf8d0781a5" CvElementArea="377, 253, 78, 33" CvTextArea="388, 263, 57, 14" CvTextArgument="Markets" CvType="Button" DesignTimeRectangle="379, 255, 75, 30" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='      Markets                ' parentid='ybar-navigation' tag='A' type='' class='_yb_1m3fv6i  _yb_1km0xpw  rapid-noclick-resp' check:innerText='Markets' /&gt;" Guid="f0f2ab02-cee3-48f2-b349-13390d5af747" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Most Active Stocks: US stocks with the highest trading volume today - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8fc82e9a-1f86-428c-ad06-7ccf8d0781a5" CvTextArea="476, 263, 61, 13" CvTextArgument="Research" CvType="Text" DesignTimeRectangle="476, 262, 61, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Research' parentid='ybar-navigation' tag='SPAN' type='' class='_yb_2tcbii' check:innerText='Research' /&gt;" Guid="0de296f2-72a4-49a0-8093-48e228554cc5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9ecc1a63f078d032095f63f3be271348.png" xmlns="">0WjC_FOlmfUeqnFOp9WPYNg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

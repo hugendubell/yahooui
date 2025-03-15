@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Asia",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "8RdmrwN4906bTWTFgxlTWw",
+  "Reference": "uzS0VvgwBki7KZCLz1QSxQ/8RdmrwN4906bTWTFgxlTWw",
+  "ParentRef": "uzS0VvgwBki7KZCLz1QSxQ/vTWAhjkNH0yAoqmwIJRXnw",
+  "Created": "2025-03-14T10:30:54.9079814Z",
+  "Updated": "2025-03-14T10:30:54.9079814Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

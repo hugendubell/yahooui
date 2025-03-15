@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ycfxRz2AHEmgOJNUsramtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/markets" CVScreenId="00be194b-faab-408e-a4cd-1ff29fbf725b" CvElementArea="1409, 566, 280, 43" CvType="InputBox" DesignTimeRectangle="1413, 568, 274, 40" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-label='Quote Lookup' tag='INPUT' type='text' class='finsrch-inpt bg-dark inpt-placeholder-secondary yf-12kwijd rounded bordered' placeholder='Quote Lookup' aaname='' /&gt;" Guid="cd2fa482-8ab4-4cdb-8b29-01ce886cbb8e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Markets: World Indexes, Futures, Bonds, Currencies, Stocks &amp;amp; ETFs - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="00be194b-faab-408e-a4cd-1ff29fbf725b" CvElementArea="1652, 436, 85, 45" CvTextArea="1671, 452, 46, 16" CvTextArgument="Sign in" CvType="Button" DesignTimeRectangle="1655, 439, 78, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='login-container' tag='A' type='' class='_yb_1e5iw4h  _yb_rqmiyo undefined' aaname='Sign in' check:innerText='Sign in' /&gt;" Guid="66f5a87d-0b40-4a1d-afe4-caa008ffffcc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1636bf2c885a413ca9494870ce8e129.png" xmlns="">0ZaljqMpGuk2wR5zadXRZPg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

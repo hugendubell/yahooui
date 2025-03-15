@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oOAoKzAfgUek_pvMqE1-1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/research-hub/screener" CVScreenId="33923a48-6fd7-4d2e-bd61-456640999e50" CvElementArea="461, 499, 86, 33" CvTextArea="209, 509, 679, 16" CvTextArgument="My Portfolio News Markets Research Personal Finance Videos Streaming Now" CvType="Button" DesignTimeRectangle="194, 496, 727, 40" DesignTimeScaleFactor="1" ElementType="List" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' tag='UL' type='' class='_yb_jy1xrb _yb_1d8j0fp' aaname='                                                              ' /&gt;" Guid="a23bc8fb-a459-49a1-bf09-628e2fdf058c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Yahoo Finance Screeners' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="17b4ba4d3d72676ece1da510a7d6a507.png" xmlns="">0MXU0fXYZRESur3A6SVnyHA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

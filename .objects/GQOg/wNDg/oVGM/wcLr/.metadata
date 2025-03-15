@@ -1,0 +1,14 @@
+﻿{
+  "Name": "לקבל הכול",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wcLrzrfMIU6HQHCTe6YrUQ",
+  "Reference": "uzS0VvgwBki7KZCLz1QSxQ/wcLrzrfMIU6HQHCTe6YrUQ",
+  "ParentRef": "uzS0VvgwBki7KZCLz1QSxQ/oVGM1xyFpkOecc97jz_s4A",
+  "Created": "2025-03-13T19:32:28.0541444Z",
+  "Updated": "2025-03-13T19:32:28.0541444Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

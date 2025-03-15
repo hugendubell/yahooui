@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="T1Y3eZjeyEW6TIZm6IdTrg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/markets/stocks/gainers" CVScreenId="3250495f-039e-461a-a143-6e47d1ce4803" CvTextArea="685, 531, 71, 16" CvTextArgument="Top Losers" CvType="Text" DesignTimeRectangle="687, 528, 69, 21" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Top Losers' parentid='nimbus-app' tag='SPAN' type='' class='ellipsis yf-emp91w' check:innerText='Top Losers' /&gt;" Guid="8ae2e214-eba2-4dfb-925c-a6fa8a08cf40" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Top Stock Gains: US stocks posting the highest gains today - Yahoo Finance' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3250495f-039e-461a-a143-6e47d1ce4803" CvElementArea="571, 520, 105, 35" CvTextArea="584, 531, 79, 16" CvTextArgument="Top Gainers" CvType="Button" DesignTimeRectangle="573, 522, 102, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' Top Gainers   ' aria-role='menuitem' tag='A' type='' class='item yf-emp91w selected' check:innerText='Top Gainers' /&gt;" Guid="f32436ed-f956-4c9d-914d-54e1f4d78b9c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9d2402ca712f4f7cd56249ed98f3ae46.png" xmlns="">0MtmoNIrWgEa3hKZbtNJxKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
