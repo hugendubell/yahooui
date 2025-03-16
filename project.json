@@ -8,6 +8,7 @@
     "UiPath.GSuite.Activities": "[3.0.10]",
     "UiPath.IntegrationService.Activities": "[1.14.0]",
     "UiPath.Mail.Activities": "[2.0.10]",
+    "UiPath.MicrosoftOffice365.Activities": "[3.0.10]",
     "UiPath.System.Activities": "[25.2.2]",
     "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
   },
